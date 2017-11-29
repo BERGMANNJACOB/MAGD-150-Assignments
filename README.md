@@ -12,5 +12,5 @@ Lab 4 Sketch
 Lab 4 introduced user interactivity into the sketches.  
 https://github.com/BERGMANNJACOB/MAGD-150-Assignments/blob/gh-pages/Lab%204.pde  
 Lab 5 Sketch  
-Lab 5 introduced the class system to Processing and how to implement it.
+Lab 5 introduced the class system to Processing and how to implement it.  
 https://github.com/BERGMANNJACOB/MAGD-150-Assignments/blob/gh-pages/Lab%205.pde  
